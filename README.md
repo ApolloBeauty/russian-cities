@@ -8,18 +8,6 @@
 - **Frontend**: React.js
 - **База данных**: PostgreSQL
 
-## Структура проекта
-
-russian-cities/
-├── main.go # Основной сервер
-├── database.go # Работа с PostgreSQL
-├── init.sql # Схема БД и демо-данные
-├── templates/
-│ └── index.html # HTML шаблон
-└── static/
-├── style.css # Стили
-└── script.js # React компоненты
-
 ## Возможности
 
 - Просмотр списка всех городов России
